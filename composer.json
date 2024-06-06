@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ContactManager\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
