@@ -13,7 +13,7 @@ Portfolio: https://abdullah-al-mamun.info
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/contact_manager.git
+    git clone https://github.com/mamun110628/contact_manager.git
     cd contact_manager
     ```
 
